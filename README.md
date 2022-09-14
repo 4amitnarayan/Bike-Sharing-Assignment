@@ -17,7 +17,6 @@ Based on various meteorological surveys and people's styles, the service provide
 
 Data Set used is  - Bike Sharing dataset
 
-```
 ## Technologies Used
 - pandas - Libraray used for dataframe
 - numpy - Libraray used for numerical python
