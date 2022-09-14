@@ -16,3 +16,20 @@ How well those variables describe the bike demands
 Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. 
 
 Data Set used is  - Bike Sharing dataset
+
+```
+## Technologies Used
+- pandas - Libraray used for dataframe
+- numpy - Libraray used for numerical python
+- seaborn - Libraray used for data visualization
+- matplotlib - Libraray used for plotting
+- statsmodels - Libraray used for explore data, estimate statistical models, & perform statistical tests
+- sklearn - Libraray used for classification, predictive analytics
+- warnings - Libraray used to ignore warnings due to version problems
+
+## Acknowledgements
+- Developed as part of the Linear Regression module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore
+
+
+## Contact
+Created by Amit Kumar [@4amitnarayan]
